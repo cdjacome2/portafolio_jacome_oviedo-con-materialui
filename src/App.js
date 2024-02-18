@@ -24,7 +24,7 @@ function App() {
       <Navbar />
       <MyContainer maxWidth="lg">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/portafolio_jacome_oviedo-con-materialui/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
