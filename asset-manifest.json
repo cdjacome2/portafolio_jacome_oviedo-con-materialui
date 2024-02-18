@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/css/main.e6c13ad2.css",
+    "main.js": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/js/main.1e2c9c39.js",
+    "static/js/453.7d1ffe6d.chunk.js": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/js/453.7d1ffe6d.chunk.js",
+    "static/media/usu09.jpg": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/media/usu09.b0fb77c38e6ec9ebe58f.jpg",
+    "static/media/usu13.jpg": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/media/usu13.5a41d326bd832fdbb76e.jpg",
+    "index.html": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/index.html",
+    "main.e6c13ad2.css.map": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/css/main.e6c13ad2.css.map",
+    "main.1e2c9c39.js.map": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/js/main.1e2c9c39.js.map",
+    "453.7d1ffe6d.chunk.js.map": "/cdjacome2/portafolio_jacome_oviedo-con-materialui/static/js/453.7d1ffe6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e2c9c39.js"
+  ]
+}
