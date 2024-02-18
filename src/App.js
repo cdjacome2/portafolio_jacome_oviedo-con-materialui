@@ -19,6 +19,7 @@ const MyContainer = styled(Container)({
 
 function App() {
   return (
+    <Home>
     <Router>
       <Navbar />
       <MyContainer maxWidth="lg">
