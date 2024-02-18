@@ -27,6 +27,7 @@ function Navbar() {
           <MyStyledButton>Contacto</MyStyledButton>
         </Link>
       </Toolbar>
+      <h1>Nuestro portafolio</h1>
     </AppBar>
   );
 }
