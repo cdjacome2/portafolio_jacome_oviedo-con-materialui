@@ -1,7 +1,7 @@
 {
   "name": "portafolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/cdjacome2/projects",
+  "homepage": "https://github.com/cdjacome2/portafolio_jacome_oviedo-con-materialui",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
